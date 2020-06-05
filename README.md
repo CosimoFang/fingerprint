@@ -1,5 +1,5 @@
-### fingerprint
-##This codebase is for fingerprint classification. You can follow these steps:
+# fingerprint
+This codebase is for fingerprint classification. You can follow these steps:
 
 1.You need to create some directories before running the code, using:
 
